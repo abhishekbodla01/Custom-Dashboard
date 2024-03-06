@@ -31,8 +31,8 @@ This project is an analytics dashboard built using React with TypeScript and the
 To run the project locally, follow these steps:
 
    ```bash
-   git clone https://github.com/abadhe/Analytics-Dashboard-App.git
-   cd analytics-dashboard
+   git clone https://github.com/abhishekbodla01/Custom-Dashboard-Example.git
+   cd Analytics-Dashboard-App
    npm install
-   npm start
+   npm run dev
    ```

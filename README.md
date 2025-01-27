@@ -1,6 +1,6 @@
 # Custom Analytics Dashboard using TypeScript and Material UI
 AMEX EXAMPLE - interview - USED TYPESCRIPT, REACT AND MATERIAL UI to build the components
-This project is an analytics dashboard built using React with TypeScript and the Material UI library. The dashboard provides visualizations of various charts and graphs for analyzing data obtained from API calls. For demonstration purposes, we used mock JSON data from the [FakeStoreAPI](https://fakestoreapi.com/docs).
+The dashboard provides visualizations of various charts and graphs for analyzing data obtained from API calls. For demonstration purposes, we used mock JSON data from the [FakeStoreAPI](https://fakestoreapi.com/docs).
 
 ## Features
 
